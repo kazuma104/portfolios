@@ -1,0 +1,8 @@
+XX_YYYY形式でフォルダを作成する
+prefix : XXの文字列（任意）	[デフォルト "XX"]
+startNum : YYYYの開始番号	[デフォルト 1]
+endNum : YYYYの終了番号		[デフォルト 10]
+numDigits : YYYYの0埋め桁数	[デフォルト 4]
+path : 作成するフォルダ		[デフォルト ".\お試し用フォルダ"]
+
+-prefix "Project" -startNum 1 -endNum 20 -numDigits 3 -path "C:\Work\神_自作便利ツール\自動で連番のフォルダ作成\お試し用フォルダ"

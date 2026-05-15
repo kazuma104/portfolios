@@ -1,0 +1,29 @@
+フォルダー パスの一覧:  ボリューム OS
+ボリューム シリアル番号は 1E49-9DF6 です
+C:.
+|   makeTree.txt
+|   makeTree_ps.ps1
+|   tree.csv
+|   
++---sample1
+|   |   sample1.txt
+|   |   sample5.zip
+|   |   
+|   +---sample2
+|   |       sample1.xlsx
+|   |       
+|   +---sample3
+|   |       sample1.docx
+|   |       
+|   +---sample4
+|   |       sample1.pptx
+|   |       
+|   \---sample5
+|       |   sample2.txt
+|       |   sample3.txt
+|       |   sampleX.cs
+|       |   
+|       \---sample6
+|               sample4.txt
+|               
+\---sample10
